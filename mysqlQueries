@@ -1,0 +1,13 @@
+# creating database
+
+--> CREATE DATABASE IF NOT EXISTS STUDENT;
+
+#use database
+
+--> Use STUDENT;
+
+#drop database
+
+--> DROP DATABASE IF EXISTS STUDENT;
+
+
